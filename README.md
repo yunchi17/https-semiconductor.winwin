@@ -1,4 +1,3 @@
-# https-semiconductor.winwin
 <!DOCTYPE html>
 <html lang="zh-TW">
 <head>
